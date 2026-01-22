@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overview:
+A cross-platform mobile app built using Flutter & Dart to collect user information and scan both sides of the National ID, following the Figma design.
+Implemented Features:
+User form:
+First Name, Last Name, Detailed Address, Landline, Mobile
+Capture National ID images (front & back) using camera
+Form validation and clean UI
+Google Sheets & Drive integration structure prepared
+Not Implemented:
+ID card contour detection & cropping: images are captured but not automatically cropped
+National ID number extraction (OCR): not implemented
+Proposed solutions: Use OpenCV or ML Kit OCR for automatic cropping and text extraction.
+Notes:
+Focus was on UI, form validation, and app architecture. Advanced image processing and OCR can be added later.
