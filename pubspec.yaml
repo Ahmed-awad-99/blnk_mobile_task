@@ -78,7 +78,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/credentials/blnk-flutter-task-dffb9ce09672.json
+    - assets/credentials/blnk-flutter-task-4c4e67a11a91.json
     - assets/images/logo.png
 
   fonts:

@@ -8,7 +8,7 @@ class ServiceLocator {
   static Future<void> init() async {
     // Google Service
     final googleService = GoogleService(
-      credentialsPath: 'assets/credentials/blnk-flutter-task-dffb9ce09672.json',
+      credentialsPath: 'assets/credentials/blnk-flutter-task-4c4e67a11a91.json',
     );
     await googleService.init();
 

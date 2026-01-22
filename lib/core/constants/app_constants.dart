@@ -7,7 +7,7 @@ class AppConstants {
   // IDs
   static const String spreadsheetId = '1ZpDcxnOLxbg0EqvviIpo9wwSVmyrc2P9BeVUYrjyPnI';
   static const String driveFolderId = '1KXsqpaBOPDXvzgLaUrhfTdPRdWBdwhnW';
-  static const String googleCredentialsPath = 'assets/credentials/blnk-flutter-task-dffb9ce09672.json';
+  static const String googleCredentialsPath = 'assets/credentials/blnk-flutter-task-4c4e67a11a91.json';
 
   // Sheet
   static const String defaultSheetName = 'Sheet1';
